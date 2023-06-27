@@ -1,0 +1,209 @@
+
+body{
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ height: 100vh;
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: end;
+    margin-right: 50px;
+    margin-top: 50px;
+  
+
+}
+li{
+   font-size: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 40px;
+    font: bolder;
+    font-family: sans-serif;
+
+}
+.ptext{
+ margin-left: 700px;
+ margin-top: 187px;
+}
+.img{
+    border-radius: 100%;
+    width: 550px;
+    height: 500px;
+    margin-top: 40px;
+}
+.ptext{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+#text{
+    margin-top: 300px;
+    font-family: sans-serif;
+}
+#cj{
+    margin-left: 300px;
+    margin-top:270px ;
+    margin-left: 90px;
+    margin-right: 0px;
+}
+.logo{
+    height: 10px;
+    margin-left: 700px;
+    margin-top: 50px;
+    
+}
+.log{
+    padding-right: 30px;
+}
+
+.space{
+  
+    margin-top: 425px;
+}
+
+
+
+.container2{
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.container2>.colorred{
+    
+    width: 70%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container2>.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 30%;
+    height: 100vh;
+}
+#pj{
+    height: 530px;
+    width: 650px;
+    margin-right: 1000px;
+    margin-bottom: 150px;
+   margin-left: 2100px;
+    border-top:5px solid #FC1302;
+    border-bottom:5px solid white;
+    border-left:5px solid #FC1302;
+    border-right:5px solid white;
+    border-radius: 20px;
+}
+.bold{
+    color: #FC1302;
+}
+.about{
+    margin-top: 0px;
+    margin-bottom: 190px;
+    margin-left: 100px;
+    margin-right: 0px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: normal;
+    
+    
+
+}
+.container3{
+    height: 100vh;
+    width: 100%;
+   
+}
+.container3>.heading1{
+height: 100vh;
+width: 50%;
+
+  justify-content: center;
+    margin-left: 1000px;
+  
+
+}
+.pro{
+    font-size: 70px;
+
+}
+.file{
+font-size: 40px;
+
+
+}
+.skll{
+    margin-top: 27px;
+    margin-bottom: 190px;
+    margin-left: 100px;
+    margin-right: 0px;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: normal;
+    
+}
+.skill{
+    height: 10px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+}
+.logi{
+    padding-right: 30px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-top: 92px;
+    margin-bottom: 190px;
+    margin-left: -107px;
+    margin-right: 0px;
+}
+.container4{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+#com{
+    margin-top: 0px;
+    margin-bottom: 190px;
+    margin-left: 100px;
+    margin-right: 0px;
+    font-size: 85px;
+    font-family: sans-serif;
+    font-weight: normal;
+    
+}
+.con{
+    margin-top: -75px;
+    margin-bottom: 190px;
+    margin-left: 100px;
+    margin-right: 0px;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: normal;
+    
+}
+.mylogo{
+    height: 10px;
+    margin-left: 115px;
+    margin-top: 50px;
+    
+}
+.mylog{
+    padding-right: 30px;
+}
+a{
+text-decoration: none;
+color: black;
+}
